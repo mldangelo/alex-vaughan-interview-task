@@ -1,0 +1,6 @@
+*.pyc
+*.DS_Store
+.mypy_cache/
+artists/*
+!artists/picasso.csv
+report.png
